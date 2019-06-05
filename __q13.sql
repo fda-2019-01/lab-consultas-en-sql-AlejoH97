@@ -5,4 +5,4 @@
 ##
 
 
-SELECT K0,MAX(c12),min(c12) FROM tbl1 GROUP BY K0
+SELECT K0,MAX(c12),min(C12) FROM tbl1 GROUP BY K0
